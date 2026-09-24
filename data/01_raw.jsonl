@@ -1,0 +1,873 @@
+{"id": "3020", "name": "Rua Trajano", "obs": ""}
+{"id": "3043", "name": "Rua Dom Joao V", "obs": ""}
+{"id": "3044", "name": "Rua Sebastiao Velho", "obs": ""}
+{"id": "515", "name": "alameda glette", "obs": ""}
+{"id": "3045", "name": "Rua Isaac Annes", "obs": ""}
+{"id": "2007", "name": "rua dos alemaes", "obs": ""}
+{"id": "3046", "name": "Rua Francisco Mainardi", "obs": ""}
+{"id": "13", "name": "rua wenceslau braz", "obs": ""}
+{"id": "334", "name": "rua augusto severo", "obs": ""}
+{"id": "3000", "name": "rua camillo", "obs": ""}
+{"id": "3001", "name": "rua mauricina", "obs": ""}
+{"id": "3002", "name": "rua tito", "obs": ""}
+{"id": "3003", "name": "Rua duilio", "obs": ""}
+{"id": "3004", "name": "Rua Faustolo", "obs": ""}
+{"id": "3005", "name": "Rua Spartaco", "obs": ""}
+{"id": "3006", "name": "Rua Coriolano", "obs": ""}
+{"id": "3007", "name": "Rua Fabia", "obs": ""}
+{"id": "3008", "name": "Rua Clelia", "obs": ""}
+{"id": "3009", "name": "Rua Marco Aurelio", "obs": ""}
+{"id": "3010", "name": "Rua Catao", "obs": ""}
+{"id": "3011", "name": "Rua Roma", "obs": ""}
+{"id": "3012", "name": "Rua Scipiao", "obs": ""}
+{"id": "3013", "name": "Rua Aurelia", "obs": ""}
+{"id": "-1", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "544", "name": "rua marajo", "obs": ""}
+{"id": "193", "name": "avenida rudge", "obs": ""}
+{"id": "191", "name": "rua julio conceicao", "obs": ""}
+{"id": "190", "name": "rua anhaia", "obs": ""}
+{"id": "194", "name": "rua dos italianos", "obs": ""}
+{"id": "196", "name": "rua da graca", "obs": ""}
+{"id": "197", "name": "rua correa dos santos", "obs": ""}
+{"id": "202", "name": "rua guarany", "obs": ""}
+{"id": "204", "name": "rua correa de mello", "obs": ""}
+{"id": "219", "name": "rua jose paulino", "obs": ""}
+{"id": "710", "name": "rua dos americanos", "obs": ""}
+{"id": "714", "name": "rua boracea", "obs": ""}
+{"id": "695", "name": "rua christina thomaz", "obs": ""}
+{"id": "685", "name": "rua newton prado", "obs": ""}
+{"id": "694", "name": "rua tucuman", "obs": ""}
+{"id": "3014", "name": "Rua Guaycurus", "obs": ""}
+{"id": "3015", "name": "Rua Grasso", "obs": ""}
+{"id": "3016", "name": "Rua Marcellina", "obs": ""}
+{"id": "3107", "name": "Rua Vespasiano", "obs": ""}
+{"id": "3108", "name": "Rua Claudio", "obs": ""}
+{"id": "3019", "name": "Rua Tiberio", "obs": ""}
+{"id": "3111", "name": "Rua Joaquim Machado", "obs": ""}
+{"id": "3021", "name": "Rua Marcilio Dias", "obs": ""}
+{"id": "3022", "name": "Rua Monteiro de Mello", "obs": ""}
+{"id": "3059", "name": "Avenida Mercedes", "obs": ""}
+{"id": "3023", "name": "Rua Thome de Souza", "obs": ""}
+{"id": "3114", "name": "Rua Duarte da Costa", "obs": ""}
+{"id": "3025", "name": "Rua Colle Latino", "obs": ""}
+{"id": "3026", "name": "Rua Anastacio", "obs": ""}
+{"id": "3027", "name": "Rua Clemente Alvares", "obs": ""}
+{"id": "3028", "name": "Rua Joao Pereira", "obs": ""}
+{"id": "3029", "name": "Rua Jorge Donsfield", "obs": ""}
+{"id": "3030", "name": "Rua doze de outubro", "obs": ""}
+{"id": "3031", "name": "Rua Moxey", "obs": ""}
+{"id": "3032", "name": "Rua Engenheiro Aubertin", "obs": ""}
+{"id": "3033", "name": "Rua Antonio Fidelis", "obs": ""}
+{"id": "2037", "name": "rua da fonte", "obs": ""}
+{"id": "3034", "name": "Rua Felix Guilhem", "obs": ""}
+{"id": "3035", "name": "Rua Belchior Carneiro", "obs": ""}
+{"id": "3036", "name": "Rua Engenheiro Fox", "obs": ""}
+{"id": "3037", "name": "Rua William Speers", "obs": ""}
+{"id": "3038", "name": "Rua Antonio Raposo", "obs": ""}
+{"id": "3039", "name": "Rua George Smith", "obs": ""}
+{"id": "3040", "name": "Rua Gago Coutinho", "obs": ""}
+{"id": "3041", "name": "Rua Affonso Sardinha", "obs": ""}
+{"id": "3042", "name": "Rua Guaricanga", "obs": ""}
+{"id": "3047", "name": "Rua Albion", "obs": ""}
+{"id": "3048", "name": "Rua Gomes Freire", "obs": ""}
+{"id": "3050", "name": "Rua Tornelero", "obs": ""}
+{"id": "3051", "name": "Rua Hungara", "obs": ""}
+{"id": "3052", "name": "Rua Araçatuba", "obs": ""}
+{"id": "3053", "name": "Rua Carapuruhy", "obs": ""}
+{"id": "3054", "name": "Rua Pirahy", "obs": ""}
+{"id": "3055", "name": "Rua Ponta Pora", "obs": ""}
+{"id": "3113", "name": "Rua Constança", "obs": ""}
+{"id": "3056", "name": "Rua Ceativa", "obs": ""}
+{"id": "3057", "name": "Rua Butirapoa", "obs": ""}
+{"id": "3058", "name": "Rua Pepiguary", "obs": ""}
+{"id": "3060", "name": "Rua Sacadura Cabral", "obs": ""}
+{"id": "3061", "name": "Rua Laurindo de Brito", "obs": ""}
+{"id": "3062", "name": "Rua Eleuterio Prado", "obs": ""}
+{"id": "3063", "name": "Rua Brigadeiro Gavião Peixoto", "obs": ""}
+{"id": "3064", "name": "Rua Barão de Jandiahy", "obs": ""}
+{"id": "3065", "name": "Rua Guararapes", "obs": ""}
+{"id": "3066", "name": "Rua Cuevas", "obs": ""}
+{"id": "3067", "name": "Rua Correntes", "obs": ""}
+{"id": "3068", "name": "Rua Pinheiro Machado", "obs": ""}
+{"id": "3069", "name": "Rua Corumbatahy", "obs": ""}
+{"id": "3070", "name": "Rua Tordesilhas", "obs": ""}
+{"id": "3071", "name": "Rua dos Aliados", "obs": ""}
+{"id": "3072", "name": "Estrada para Pinheiros", "obs": ""}
+{"id": "3073", "name": "Rua Doutor Jose Elias", "obs": ""}
+{"id": "3074", "name": "Rua Indaiatuba", "obs": ""}
+{"id": "3075", "name": "Rua Peincesa Leopoldina", "obs": ""}
+{"id": "3076", "name": "Rua Saldanha da Gama", "obs": ""}
+{"id": "3017", "name": "Rua Luiz Martins", "obs": ""}
+{"id": "3077", "name": "Rua Amphitheatro", "obs": ""}
+{"id": "697", "name": "rua do areal", "obs": ""}
+{"id": "701", "name": "rua tocantins", "obs": ""}
+{"id": "3078", "name": "Rua Amazonas", "obs": ""}
+{"id": "3079", "name": "Rua Andrade Neves", "obs": ""}
+{"id": "3080", "name": "Estrada velha de Jundiahy", "obs": ""}
+{"id": "3112", "name": "Rua Caio Greco", "obs": ""}
+{"id": "3081", "name": "Rua Tibiriça", "obs": ""}
+{"id": "3082", "name": "Rua Barão de Itauna", "obs": ""}
+{"id": "3083", "name": "Rua Diego Ortiz", "obs": ""}
+{"id": "3084", "name": "Rua Mario", "obs": ""}
+{"id": "3085", "name": "Rua Consorte Ribas", "obs": ""}
+{"id": "3086", "name": "Rua Bartomeu Paes", "obs": ""}
+{"id": "3087", "name": "Rua Peixoto", "obs": ""}
+{"id": "3088", "name": "Rua Camacan", "obs": ""}
+{"id": "3089", "name": "Rua Coaqueira", "obs": ""}
+{"id": "3090", "name": "Rua Coroa dos", "obs": ""}
+{"id": "3091", "name": "Rua Consorte Olegario", "obs": ""}
+{"id": "3092", "name": "Rua Martinho de Campos", "obs": ""}
+{"id": "3093", "name": "Rua Bartholom Bueno", "obs": ""}
+{"id": "3094", "name": "Rua Consorte Candiao de Oliveira", "obs": ""}
+{"id": "3095", "name": "Rua Bortuedos", "obs": ""}
+{"id": "3096", "name": "Rua Cayapos", "obs": ""}
+{"id": "3097", "name": "Rua Belmonte", "obs": ""}
+{"id": "3098", "name": "Avenida Speers", "obs": ""}
+{"id": "3099", "name": "Avenida Santa Marina", "obs": ""}
+{"id": "3100", "name": "Rua John Harrison", "obs": ""}
+{"id": "3101", "name": "Rua das Officinas", "obs": ""}
+{"id": "3102", "name": "Rua Domingo Rodrigues", "obs": ""}
+{"id": "3103", "name": "Rua Sheldon", "obs": ""}
+{"id": "3104", "name": "Rua Tindade", "obs": ""}
+{"id": "3105", "name": "Rua Martim Tenorio", "obs": ""}
+{"id": "3106", "name": "Rua Antonio de Mariz", "obs": ""}
+{"id": "3018", "name": "Rua Ulpiano", "obs": ""}
+{"id": "178", "name": "rua lopes trovao", "obs": ""}
+{"id": "702", "name": "rua visconde de taway", "obs": ""}
+{"id": "704", "name": "n.o", "obs": ""}
+{"id": "703", "name": "rua baroneza de porto carreiro", "obs": ""}
+{"id": "707", "name": "rua solimoes", "obs": ""}
+{"id": "45", "name": "avenida sao joao", "obs": ""}
+{"id": "3109", "name": "Rua Cerro Cora", "obs": ""}
+{"id": "3110", "name": "Rua Monte Pascal", "obs": ""}
+{"id": "3024", "name": "Rua Quarahim", "obs": ""}
+{"id": "3115", "name": "Rua Carijos", "obs": ""}
+{"id": "3049", "name": "Rua bernardo guimaraes", "obs": ""}
+{"id": "10007", "name": "largo da concordia impar", "obs": "1944_l29_p120"}
+{"id": "20007", "name": "largo da concordia par", "obs": "1944_l29_p120"}
+{"id": "10008", "name": "largo da memoria impar", "obs": "1942_l29_p345"}
+{"id": "20012", "name": "largo do arouche par", "obs": "1941_l29_p124"}
+{"id": "10012", "name": "largo do arouche impar", "obs": "1941_l29_p124"}
+{"id": "10016", "name": "largo do paysandu impar", "obs": "1937_l21_p379"}
+{"id": "20016", "name": "largo do paysandu par", "obs": "1937_l21_p379"}
+{"id": "10014", "name": "largo do riachuelo (atual praca da bandeira) impar", "obs": "1942_l28_f313"}
+{"id": "20014", "name": "largo do riachuelo (atual praca da bandeira) par", "obs": "1942_l28_f313"}
+{"id": "20017", "name": "largo santa cecilia par", "obs": "1938_l26_p50"}
+{"id": "10017", "name": "largo santa cecilia impar", "obs": "1938_l26_p50"}
+{"id": "20011", "name": "largo sao bento par", "obs": "1939_l26_p208"}
+{"id": "10011", "name": "largo sao bento impar", "obs": "1939_l26_p208"}
+{"id": "10003", "name": "praca antonio prado impar", "obs": "1938_l25_p124"}
+{"id": "20003", "name": "praca antonio prado par", "obs": "1938_l25_p124"}
+{"id": "20002", "name": "praca carlos gomes par", "obs": "1939_l26_p343"}
+{"id": "10002", "name": "praca carlos gomes impar", "obs": "1939_l26_p344"}
+{"id": "20001", "name": "praca da se  par", "obs": "1940_l27_p244"}
+{"id": "20005", "name": "praca eduardo rudge par", "obs": "1939_l26_p344"}
+{"id": "10005", "name": "praca eduardo rudge impar", "obs": "1933_l19_p73"}
+{"id": "20004", "name": "praca da republica par", "obs": "1941_l28_p117"}
+{"id": "10004", "name": "praca da republica impar", "obs": "1941_l28_116"}
+{"id": "10001", "name": "praca da se impar", "obs": "1940_l27_p245"}
+{"id": "10018", "name": "largo santa efigenia impar", "obs": "1941_l28_p119"}
+{"id": "20018", "name": "largo santa efigenia par", "obs": "1941_l28_p119"}
+{"id": "20013", "name": "largo do pari par", "obs": "1946_l30_p393"}
+{"id": "10015", "name": "largo general osorio impar", "obs": "1941_l13_f143"}
+{"id": "18", "name": "rua general carneiro", "obs": ""}
+{"id": "10006", "name": "largo coracao de jesus impar", "obs": "1941_l28_p284"}
+{"id": "20006", "name": "largo coracao de jesus par", "obs": "1941_l28_p248"}
+{"id": "175", "name": "rua dos pyrineus", "obs": ""}
+{"id": "706", "name": "rua james holland", "obs": ""}
+{"id": "176", "name": "rua camerino", "obs": ""}
+{"id": "696", "name": "rua tenente penna", "obs": ""}
+{"id": "117", "name": "rua aureliano coutinho", "obs": ""}
+{"id": "122", "name": "rua martim francisco", "obs": ""}
+{"id": "123", "name": "rua dona veridiana", "obs": ""}
+{"id": "163", "name": "rua souza lima", "obs": ""}
+{"id": "165", "name": "rua lopes de oliveira", "obs": ""}
+{"id": "167", "name": "alameda eduardo prado", "obs": ""}
+{"id": "168", "name": "rua doutor elias chaves", "obs": ""}
+{"id": "169", "name": "rua adolpho gordo", "obs": ""}
+{"id": "170", "name": "rua albuquerque lins", "obs": ""}
+{"id": "171", "name": "avenida angelica", "obs": ""}
+{"id": "173", "name": "alameda ribeiro da silva", "obs": ""}
+{"id": "174", "name": "rua apa", "obs": ""}
+{"id": "180", "name": "rua sao vicente de paulo", "obs": ""}
+{"id": "181", "name": "rua carvalho", "obs": ""}
+{"id": "182", "name": "rua barao de limeira", "obs": ""}
+{"id": "183", "name": "alameda dino bueno", "obs": ""}
+{"id": "184", "name": "rua visconde do rio branco", "obs": ""}
+{"id": "185", "name": "alameda cleveland", "obs": ""}
+{"id": "186", "name": "alameda barao de piracicaba", "obs": ""}
+{"id": "187", "name": "rua helvetia", "obs": ""}
+{"id": "188", "name": "rua joao monteiro", "obs": ""}
+{"id": "189", "name": "rua barao de campinas", "obs": ""}
+{"id": "513", "name": "rua sebastiao pereira", "obs": ""}
+{"id": "192", "name": "rua dos guayanazes", "obs": ""}
+{"id": "207", "name": "rua dos protestantes", "obs": ""}
+{"id": "233", "name": "rua dos andradas", "obs": ""}
+{"id": "293", "name": "rua ana cintra", "obs": ""}
+{"id": "294", "name": "rua fortunato", "obs": ""}
+{"id": "295", "name": "rua veiga filho", "obs": ""}
+{"id": "164", "name": "rua capistrano de abreu", "obs": ""}
+{"id": "296", "name": "rua jaguaribe", "obs": ""}
+{"id": "297", "name": "rua canuto do val", "obs": ""}
+{"id": "298", "name": "rua baroneza de itu", "obs": ""}
+{"id": "299", "name": "rua barao de tatuhy", "obs": ""}
+{"id": "300", "name": "rua imaculado conceicao", "obs": ""}
+{"id": "302", "name": "rua jesuino paschoal", "obs": ""}
+{"id": "303", "name": "rua barao de joatinga", "obs": ""}
+{"id": "304", "name": "rua aurora", "obs": ""}
+{"id": "306", "name": "rua frederico steidel", "obs": ""}
+{"id": "307", "name": "rua maria theresa", "obs": ""}
+{"id": "308", "name": "rua doutor vieira de carvalho", "obs": ""}
+{"id": "310", "name": "rua general osorio", "obs": ""}
+{"id": "311", "name": "rua victoria", "obs": ""}
+{"id": "312", "name": "rua conselheiro nebias", "obs": ""}
+{"id": "313", "name": "rua dos gusmoes", "obs": ""}
+{"id": "314", "name": "rua do triumpho", "obs": ""}
+{"id": "315", "name": "travessa joaquim gustavo", "obs": ""}
+{"id": "316", "name": "travessa sao joao", "obs": ""}
+{"id": "317", "name": "rua dos tymbiras", "obs": ""}
+{"id": "318", "name": "rua amador bueno", "obs": ""}
+{"id": "320", "name": "rua general rondon", "obs": ""}
+{"id": "321", "name": "rua santa ephigenia", "obs": ""}
+{"id": "325", "name": "rua ypiranga", "obs": ""}
+{"id": "326", "name": "rua de sao joao", "obs": ""}
+{"id": "501", "name": "rua frederico abranches", "obs": ""}
+{"id": "502", "name": "alameda barros", "obs": ""}
+{"id": "12", "name": "rua santa theresa", "obs": ""}
+{"id": "514", "name": "rua das palmeiras", "obs": ""}
+{"id": "519", "name": "rua maua", "obs": ""}
+{"id": "521", "name": "alameda nothann", "obs": ""}
+{"id": "524", "name": "rua duque de caxias", "obs": ""}
+{"id": "162", "name": "rua sergio lima", "obs": ""}
+{"id": "25", "name": "travessa do mercado", "obs": ""}
+{"id": "166", "name": "rua conselheiro brotero", "obs": ""}
+{"id": "172", "name": "rua brigadeiro galvao", "obs": ""}
+{"id": "30", "name": "rua santo andre", "obs": ""}
+{"id": "177", "name": "rua barra funda", "obs": ""}
+{"id": "426", "name": "rua da liberdade", "obs": ""}
+{"id": "2020", "name": "rua maestro cardim", "obs": ""}
+{"id": "2017", "name": "rua pedroso", "obs": ""}
+{"id": "2021", "name": "rua martinho de carvalho", "obs": ""}
+{"id": "2005", "name": "rua carlos sampaio", "obs": ""}
+{"id": "2029", "name": "rua fausto ferraz", "obs": ""}
+{"id": "2043", "name": "rua cincinato braga", "obs": ""}
+{"id": "2041", "name": "rua santanna do paraiso", "obs": ""}
+{"id": "2042", "name": "rua santa magdalena", "obs": ""}
+{"id": "2014", "name": "rua arthur prado", "obs": ""}
+{"id": "56", "name": "rua senador paulo egydio", "obs": ""}
+{"id": "2003", "name": "rua alfredo ellis", "obs": ""}
+{"id": "2035", "name": "rua capitao mor roque barreto", "obs": ""}
+{"id": "2006", "name": "rua cunha bueno", "obs": ""}
+{"id": "23", "name": "viadcuto santa ephigenia", "obs": ""}
+{"id": "59", "name": "rua christovam colombo", "obs": ""}
+{"id": "1", "name": "rua boa vista", "obs": ""}
+{"id": "2", "name": "rua tres de dezembro", "obs": ""}
+{"id": "3", "name": "rua joao briccola", "obs": ""}
+{"id": "4", "name": "ladeira porto geral", "obs": ""}
+{"id": "5", "name": "travessa porto geral", "obs": ""}
+{"id": "6", "name": "rua quinze de novembro", "obs": ""}
+{"id": "7", "name": "rua floriano peixoto", "obs": ""}
+{"id": "8", "name": "rua quintino bocayuva", "obs": ""}
+{"id": "9", "name": "rua barao de paranapiacaba", "obs": ""}
+{"id": "10", "name": "rua benjamin constant", "obs": ""}
+{"id": "11", "name": "rua senador feijo", "obs": ""}
+{"id": "14", "name": "rua onze de agosto", "obs": ""}
+{"id": "16", "name": "rua alvares penteado", "obs": ""}
+{"id": "17", "name": "travessa do commercio", "obs": ""}
+{"id": "19", "name": "rua da quitanda", "obs": ""}
+{"id": "20", "name": "rua direita", "obs": ""}
+{"id": "21", "name": "rua de sao bento", "obs": ""}
+{"id": "22", "name": "rua libero badaro", "obs": ""}
+{"id": "26", "name": "rua frederico alvarenga", "obs": ""}
+{"id": "27", "name": "ladeira da constituicao", "obs": ""}
+{"id": "28", "name": "rua virgilina salles", "obs": ""}
+{"id": "29", "name": "rua itoby", "obs": ""}
+{"id": "31", "name": "rua lucrecia leme", "obs": ""}
+{"id": "34", "name": "rua silveira martins", "obs": ""}
+{"id": "37", "name": "rua lourenco gnecco", "obs": ""}
+{"id": "38", "name": "rua sao nicolau", "obs": ""}
+{"id": "39", "name": "rua maria benedicta", "obs": ""}
+{"id": "40", "name": "rua do tesouro", "obs": ""}
+{"id": "41", "name": "travessa grande hotel", "obs": ""}
+{"id": "44", "name": "rua anchieta", "obs": ""}
+{"id": "46", "name": "viaduto do cha", "obs": ""}
+{"id": "47", "name": "rua barao de itapetininga", "obs": ""}
+{"id": "48", "name": "rua dom jose de barros", "obs": ""}
+{"id": "49", "name": "rua antonio de godoy", "obs": ""}
+{"id": "50", "name": "rua do seminario", "obs": ""}
+{"id": "51", "name": "rua formosa", "obs": ""}
+{"id": "52", "name": "becco paysandu", "obs": ""}
+{"id": "53", "name": "rua capitao salomao", "obs": ""}
+{"id": "54", "name": "rua vinte e quatro de maio", "obs": ""}
+{"id": "55", "name": "rua de sao francisco", "obs": ""}
+{"id": "482", "name": "rua oscar horta", "obs": ""}
+{"id": "62", "name": "rua doutor falcao", "obs": ""}
+{"id": "64", "name": "rua joao adolpho", "obs": ""}
+{"id": "65", "name": "rua alvaro de carvalho", "obs": ""}
+{"id": "68", "name": "rua conselheiro crispiniano", "obs": ""}
+{"id": "69", "name": "rua braulio gomes", "obs": ""}
+{"id": "70", "name": "rua sete de abril", "obs": ""}
+{"id": "71", "name": "rua coronel xavier de toledo", "obs": ""}
+{"id": "72", "name": "rua quirino de andrade", "obs": ""}
+{"id": "74", "name": "rua do ouvidor", "obs": ""}
+{"id": "75", "name": "ladeira da memoria", "obs": ""}
+{"id": "78", "name": "rua araujo", "obs": ""}
+{"id": "79", "name": "rua marques de ytu", "obs": ""}
+{"id": "80", "name": "rua general jardim", "obs": ""}
+{"id": "81", "name": "rua major sertorio", "obs": ""}
+{"id": "82", "name": "rua epitacio pessoa", "obs": ""}
+{"id": "83", "name": "rua doutor theodoro bayma", "obs": ""}
+{"id": "84", "name": "rua rego freitas", "obs": ""}
+{"id": "119", "name": "rua mato grosso", "obs": ""}
+{"id": "395", "name": "rua saracura pequena", "obs": ""}
+{"id": "85", "name": "rua amaral gurgel", "obs": ""}
+{"id": "86", "name": "rua bento freitas", "obs": ""}
+{"id": "87", "name": "rua maria antonia", "obs": ""}
+{"id": "88", "name": "rua cezario motta", "obs": ""}
+{"id": "89", "name": "rua santa isabel", "obs": ""}
+{"id": "90", "name": "rua doutor villa nova", "obs": ""}
+{"id": "91", "name": "rua cunha horta", "obs": ""}
+{"id": "92", "name": "rua maria borba", "obs": ""}
+{"id": "93", "name": "rua de sao luiz", "obs": ""}
+{"id": "94", "name": "rua major quedinho", "obs": ""}
+{"id": "95", "name": "rua caio prado", "obs": ""}
+{"id": "98", "name": "rua augusta", "obs": ""}
+{"id": "100", "name": "rua florisbella", "obs": ""}
+{"id": "101", "name": "rua olinda", "obs": ""}
+{"id": "102", "name": "rua gravatahy", "obs": ""}
+{"id": "103", "name": "rua visconde de ouro preto", "obs": ""}
+{"id": "104", "name": "rua marquez de paranagua", "obs": ""}
+{"id": "105", "name": "rua antonia de queiroz", "obs": ""}
+{"id": "106", "name": "rua piauhy", "obs": ""}
+{"id": "107", "name": "rua itambe", "obs": ""}
+{"id": "108", "name": "rua maranhao", "obs": ""}
+{"id": "109", "name": "avenida hygienopolis", "obs": ""}
+{"id": "116", "name": "rua sabara", "obs": ""}
+{"id": "118", "name": "rua alagoas", "obs": ""}
+{"id": "121", "name": "rua itacolomy", "obs": ""}
+{"id": "221", "name": "rua dos carmelitas", "obs": ""}
+{"id": "222", "name": "rua conde do pinhal", "obs": ""}
+{"id": "223", "name": "rua agassiz", "obs": ""}
+{"id": "224", "name": "rua anna rosa", "obs": ""}
+{"id": "225", "name": "rua silveira martins", "obs": ""}
+{"id": "226", "name": "rua anitta garibaldi", "obs": ""}
+{"id": "227", "name": "rua irman simpliciana", "obs": ""}
+{"id": "228", "name": "travessa do quartel", "obs": ""}
+{"id": "229", "name": "rua conselheiro furtado", "obs": ""}
+{"id": "230", "name": "rua conde de sarzedas", "obs": ""}
+{"id": "231", "name": "rua livre", "obs": ""}
+{"id": "232", "name": "rua santa luzia", "obs": ""}
+{"id": "301", "name": "rua doutor martinico prado", "obs": ""}
+{"id": "309", "name": "rua do arouche", "obs": ""}
+{"id": "331", "name": "rua doutor pedro lessa", "obs": ""}
+{"id": "339", "name": "rua page", "obs": ""}
+{"id": "362", "name": "rua ceres", "obs": ""}
+{"id": "386", "name": "rua costa", "obs": ""}
+{"id": "387", "name": "rua bella cintra", "obs": ""}
+{"id": "2008", "name": "rua dos belgas", "obs": ""}
+{"id": "389", "name": "rua antonio carlos", "obs": ""}
+{"id": "460", "name": "rua tabatinguera", "obs": ""}
+{"id": "428", "name": "rua doutor rodrigo silva", "obs": ""}
+{"id": "429", "name": "rua da assemblea", "obs": ""}
+{"id": "430", "name": "travessa jandaia", "obs": ""}
+{"id": "432", "name": "rua thomaz gonzaga", "obs": ""}
+{"id": "434", "name": "rua americo de campos", "obs": ""}
+{"id": "435", "name": "rua sao paulo", "obs": ""}
+{"id": "436", "name": "rua barao de iguape", "obs": ""}
+{"id": "437", "name": "rua thomaz ribeiro de lima", "obs": ""}
+{"id": "438", "name": "rua doutor lund", "obs": ""}
+{"id": "439", "name": "rua da gloria", "obs": ""}
+{"id": "440", "name": "becco dos afflictos", "obs": ""}
+{"id": "441", "name": "rua sinimou", "obs": ""}
+{"id": "443", "name": "rua glycerio", "obs": ""}
+{"id": "444", "name": "rua teixeira leite", "obs": ""}
+{"id": "449", "name": "travessa sao paulo", "obs": ""}
+{"id": "452", "name": "travessa dos estudantes", "obs": ""}
+{"id": "461", "name": "rua nioac", "obs": ""}
+{"id": "499", "name": "rua jose bonifacio", "obs": ""}
+{"id": "503", "name": "rua sergipe", "obs": ""}
+{"id": "508", "name": "rua do riachuelo", "obs": ""}
+{"id": "509", "name": "rua dos estudantes", "obs": ""}
+{"id": "516", "name": "ladeira do carmo", "obs": ""}
+{"id": "517", "name": "rua do carmo", "obs": ""}
+{"id": "73", "name": "rua da consolacao", "obs": ""}
+{"id": "2022", "name": "avenida paulista", "obs": ""}
+{"id": "2023", "name": "rua frei caneca", "obs": ""}
+{"id": "403", "name": "rua santo antonio", "obs": ""}
+{"id": "99", "name": "rua martinho prado", "obs": ""}
+{"id": "97", "name": "rua avanhandava", "obs": ""}
+{"id": "394", "name": "rua paim", "obs": ""}
+{"id": "2040", "name": "avenida anhagabau", "obs": ""}
+{"id": "2033", "name": "rua acarahu", "obs": ""}
+{"id": "2034", "name": "rua vicente prado", "obs": ""}
+{"id": "2031", "name": "rua jacarehy", "obs": ""}
+{"id": "412", "name": "rua japura", "obs": ""}
+{"id": "491", "name": "rua quatorze de julho", "obs": ""}
+{"id": "411", "name": "avenida brigadeiro luis antonio", "obs": ""}
+{"id": "506", "name": "rua treze de maio", "obs": ""}
+{"id": "396", "name": "rua humayta", "obs": ""}
+{"id": "407", "name": "rua condessa de sao joaquim", "obs": ""}
+{"id": "425", "name": "rua conde de sao joaquim", "obs": ""}
+{"id": "60", "name": "rua asdrubal do nascimento", "obs": ""}
+{"id": "61", "name": "rua santo amaro", "obs": ""}
+{"id": "2018", "name": "rua sao carlos pinhal", "obs": ""}
+{"id": "2019", "name": "rua ribeirao preto", "obs": ""}
+{"id": "2025", "name": "rua itapeva", "obs": ""}
+{"id": "115", "name": "rua manoel dutra", "obs": ""}
+{"id": "505", "name": "rua conselheiro carrao", "obs": ""}
+{"id": "405", "name": "rua major diogo", "obs": ""}
+{"id": "2013", "name": "rua fortaleza", "obs": ""}
+{"id": "2010", "name": "rua dos ingleses", "obs": ""}
+{"id": "401", "name": "rua doutor luiz barreto", "obs": ""}
+{"id": "2002", "name": "rua almirante marques leao", "obs": ""}
+{"id": "402", "name": "rua sao vicente", "obs": ""}
+{"id": "110", "name": "rua sao domingos", "obs": ""}
+{"id": "2011", "name": "rua doutor ricardo baptista", "obs": ""}
+{"id": "111", "name": "rua conselheiro ramalho", "obs": ""}
+{"id": "2001", "name": "rua abolicao", "obs": ""}
+{"id": "423", "name": "rua genebra", "obs": ""}
+{"id": "418", "name": "rua maria paula", "obs": ""}
+{"id": "382", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "417", "name": "rua francisca miquelina", "obs": ""}
+{"id": "416", "name": "rua aguiar de barros", "obs": ""}
+{"id": "2015", "name": "alameda rio claro", "obs": ""}
+{"id": "2026", "name": "rua pamplona", "obs": ""}
+{"id": "2012", "name": "rua esther", "obs": ""}
+{"id": "114", "name": "rua barata ribeiro", "obs": ""}
+{"id": "388", "name": "rua peixoto gomide", "obs": ""}
+{"id": "392", "name": "rua herculano de freitas", "obs": ""}
+{"id": "393", "name": "rua itarare", "obs": ""}
+{"id": "504", "name": "rua pennaforte mendes", "obs": ""}
+{"id": "2030", "name": "rua ruy barbosa", "obs": ""}
+{"id": "490", "name": "rua joao passalacqua", "obs": ""}
+{"id": "2016", "name": "rua monsenhor passalaqua", "obs": ""}
+{"id": "2004", "name": "rua bororos", "obs": ""}
+{"id": "112", "name": "rua maria jose", "obs": ""}
+{"id": "424", "name": "rua jaceguay", "obs": ""}
+{"id": "2032", "name": "rua araquan", "obs": ""}
+{"id": "2036", "name": "rua dos holandeses", "obs": ""}
+{"id": "113", "name": "rua sao miguel", "obs": ""}
+{"id": "2039", "name": "rua barbosa rodrigues", "obs": ""}
+{"id": "2009", "name": "rua dos franceses", "obs": ""}
+{"id": "244", "name": "avenida da cantareira", "obs": ""}
+{"id": "259", "name": "rua jurua", "obs": ""}
+{"id": "274", "name": "rua das olarias", "obs": ""}
+{"id": "246", "name": "rua victor abrosa", "obs": ""}
+{"id": "241", "name": "avenida tamanduatehy", "obs": ""}
+{"id": "215", "name": "avenida tiradentes", "obs": ""}
+{"id": "24", "name": "rua vinte e cinco de marco", "obs": ""}
+{"id": "32", "name": "rua barao de duprat", "obs": ""}
+{"id": "127", "name": "rua do lucas", "obs": ""}
+{"id": "136", "name": "rua santa rosa", "obs": ""}
+{"id": "160", "name": "rua cruz branca", "obs": ""}
+{"id": "161", "name": "rua da alfandega", "obs": ""}
+{"id": "208", "name": "rua general couto de magalhaes", "obs": ""}
+{"id": "210", "name": "rua amazonas", "obs": ""}
+{"id": "214", "name": "rua deocliciana", "obs": ""}
+{"id": "217", "name": "rua jorge miranda", "obs": ""}
+{"id": "218", "name": "rua joao theodoro", "obs": ""}
+{"id": "220", "name": "rua brigadeiro tobias", "obs": ""}
+{"id": "344", "name": "rua francisco sa barbosa", "obs": "nao oficial"}
+{"id": "234", "name": "rua sao caetano", "obs": ""}
+{"id": "235", "name": "rua dutra rodrigues", "obs": ""}
+{"id": "236", "name": "rua dom antonio de mello", "obs": ""}
+{"id": "333", "name": "rua augusto de queiroz", "obs": ""}
+{"id": "237", "name": "rua doutor pedro arbues", "obs": ""}
+{"id": "238", "name": "rua guilherme maw", "obs": ""}
+{"id": "239", "name": "rua amelia", "obs": ""}
+{"id": "240", "name": "rua florencio de abreu", "obs": ""}
+{"id": "245", "name": "rua iguassu", "obs": ""}
+{"id": "248", "name": "rua tibirica", "obs": ""}
+{"id": "249", "name": "rua pedro alvares cabral", "obs": ""}
+{"id": "250", "name": "rua joao jacyntho", "obs": ""}
+{"id": "251", "name": "rua affonso arinos", "obs": ""}
+{"id": "252", "name": "rua madeira", "obs": ""}
+{"id": "253", "name": "rua vidal de negreiros", "obs": ""}
+{"id": "254", "name": "rua conselheiro dantas", "obs": ""}
+{"id": "255", "name": "rua camomil", "obs": ""}
+{"id": "256", "name": "rua hahnemann", "obs": ""}
+{"id": "257", "name": "rua carnot", "obs": ""}
+{"id": "260", "name": "avenida vautier", "obs": ""}
+{"id": "261", "name": "rua monsenhor andrade", "obs": ""}
+{"id": "262", "name": "rua itariry", "obs": ""}
+{"id": "263", "name": "rua pasteur", "obs": ""}
+{"id": "264", "name": "rua alexandrino pedroso", "obs": ""}
+{"id": "265", "name": "rua victor hugo", "obs": ""}
+{"id": "266", "name": "rua thiers", "obs": ""}
+{"id": "267", "name": "rua amelia sa barbosa", "obs": "nao oficial"}
+{"id": "268", "name": "rua gabriella sa barbosa", "obs": "nao oficial"}
+{"id": "269", "name": "rua odette sa barbosa", "obs": "nao oficial"}
+{"id": "270", "name": "rua mathilde sa barbosa", "obs": "nao oficial"}
+{"id": "271", "name": "rua teresa benedita sa barbosa", "obs": "nao oficial"}
+{"id": "272", "name": "rua benecdita sa barbosa", "obs": "nao oficial"}
+{"id": "273", "name": "rua paganini", "obs": ""}
+{"id": "276", "name": "rua rodrigues dos santos", "obs": ""}
+{"id": "278", "name": "rua barao de ladario", "obs": ""}
+{"id": "305", "name": "rua washington luis", "obs": ""}
+{"id": "138", "name": "rua s. anna", "obs": ""}
+{"id": "343", "name": "rua lazaro", "obs": ""}
+{"id": "345", "name": "rua possidonio ignacio", "obs": ""}
+{"id": "323", "name": "rua coronel baptista da luz", "obs": ""}
+{"id": "324", "name": "rua capitao mor jeronymo leitao", "obs": ""}
+{"id": "328", "name": "rua da conceicao", "obs": ""}
+{"id": "329", "name": "rua senador queiroz", "obs": ""}
+{"id": "330", "name": "travessa beneficiencia portugueza", "obs": ""}
+{"id": "332", "name": "rua dom francisco de souza", "obs": ""}
+{"id": "335", "name": "rua paula souza", "obs": ""}
+{"id": "336", "name": "rua miguel carlos", "obs": ""}
+{"id": "337", "name": "rua antonio paes", "obs": ""}
+{"id": "338", "name": "rua plinio ramos", "obs": ""}
+{"id": "340", "name": "rua mercurio", "obs": ""}
+{"id": "342", "name": "rua sa barbosa", "obs": "nao oficial"}
+{"id": "346", "name": "rua dos clerigos", "obs": ""}
+{"id": "347", "name": "rua doutor claudio de souza", "obs": "nao oficial"}
+{"id": "348", "name": "rua da economisadora", "obs": "nao oficial"}
+{"id": "349", "name": "rua doutor luiz pisa", "obs": "nao oficial"}
+{"id": "350", "name": "rua doutor gabriel dias", "obs": "nao oficial"}
+{"id": "351", "name": "rua leoncio gurgel", "obs": "nao oficial"}
+{"id": "352", "name": "rua vinte e cinco de janeiro", "obs": ""}
+{"id": "353", "name": "rua luiz de camoes", "obs": ""}
+{"id": "355", "name": "rua anhangabahu", "obs": ""}
+{"id": "356", "name": "avenida do estado", "obs": ""}
+{"id": "357", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "358", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "359", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "360", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "361", "name": "becco da fabrica", "obs": ""}
+{"id": "363", "name": "rua carlos garcia", "obs": ""}
+{"id": "364", "name": "rua americo brasiliense", "obs": ""}
+{"id": "366", "name": "rua fernandes silva", "obs": ""}
+{"id": "367", "name": "rua florida", "obs": ""}
+{"id": "368", "name": "rua sampaio moreira", "obs": ""}
+{"id": "371", "name": "rua oriente", "obs": ""}
+{"id": "372", "name": "rua elisa whitacker", "obs": ""}
+{"id": "373", "name": "rua henrique dias", "obs": ""}
+{"id": "374", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "375", "name": "rua julio ribeiro", "obs": ""}
+{"id": "380", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "381", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "383", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "495", "name": "rua benjamin de oliveira", "obs": ""}
+{"id": "518", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "216", "name": "rua alfredo maia", "obs": ""}
+{"id": "243", "name": "avenida tamanduatehy", "obs": ""}
+{"id": "205", "name": "rua prates", "obs": ""}
+{"id": "211", "name": "rua bandeirantes", "obs": ""}
+{"id": "212", "name": "rua afonso penna", "obs": ""}
+{"id": "213", "name": "rua doutor rodrigo monteiro de barros", "obs": ""}
+{"id": "258", "name": "rua itaquy", "obs": ""}
+{"id": "662", "name": "rua waldemar doria", "obs": ""}
+{"id": "511", "name": "rua caninde", "obs": ""}
+{"id": "341", "name": "rua cantareira", "obs": ""}
+{"id": "734", "name": "rua sem nome", "obs": ""}
+{"id": "528", "name": "rua araguaya", "obs": ""}
+{"id": "531", "name": "rua padre vieira", "obs": ""}
+{"id": "1578", "name": "Rua Simão Alvares", "obs": "Rua Simão Álvares"}
+{"id": "649", "name": "rua pedro vicente", "obs": ""}
+{"id": "648", "name": "rua eduardo chaves", "obs": ""}
+{"id": "651", "name": "rua paulino guimaraes", "obs": ""}
+{"id": "650", "name": "rua guapore", "obs": ""}
+{"id": "656", "name": "rua dom roe", "obs": ""}
+{"id": "653", "name": "rua porto calvo", "obs": ""}
+{"id": "655", "name": "rua seguro porto", "obs": ""}
+{"id": "681", "name": "rua jose pacheco", "obs": ""}
+{"id": "688", "name": "rua luiz pacheco", "obs": ""}
+{"id": "687", "name": "rua itapirapes", "obs": ""}
+{"id": "725", "name": "rua salvador leme", "obs": ""}
+{"id": "724", "name": "rua itaporanga", "obs": ""}
+{"id": "727", "name": "rua franco borges", "obs": ""}
+{"id": "726", "name": "rua rodolpho miranda", "obs": ""}
+{"id": "733", "name": "rua jorge velho", "obs": ""}
+{"id": "728", "name": "rua itaporanga", "obs": ""}
+{"id": "732", "name": "nao oficial", "obs": "nao oficial"}
+{"id": "247", "name": "rua tapajoz", "obs": ""}
+{"id": "1733", "name": "Av Vital Brasil", "obs": "Avenida Vital Brasil"}
+{"id": "1734", "name": "Rua Catechese", "obs": "Rua Catequese"}
+{"id": "1735", "name": "Rua das Missões", "obs": "Av. Valdemar Ferreira"}
+{"id": "1736", "name": "Rua Belchior de Pontes", "obs": "R. Des. Armando Fairbanks"}
+{"id": "1737", "name": "Rua Geribatiba", "obs": "Rua Getivatiba"}
+{"id": "1732", "name": "Rua Pirajussara", "obs": "Rua Pirajussara"}
+{"id": "1739", "name": "Rua Paes Leme", "obs": "Rua Pais Leme"}
+{"id": "1738", "name": "Rua Butantan", "obs": "Rua Butantã"}
+{"id": "1741", "name": "Rua Cunha Gago", "obs": "Rua Cunha Gago"}
+{"id": "1742", "name": "Rua Morato Coelho", "obs": "Rua Mourato Coelho"}
+{"id": "1743", "name": "Rua Arthur Azevedo", "obs": "Rua Artur de Azevedo"}
+{"id": "657", "name": "rua santa rita", "obs": ""}
+{"id": "1744", "name": "Rua dos Pinheiros", "obs": "Rua dos Pinheiros"}
+{"id": "1745", "name": "Rua Matheus Grou", "obs": "Rua Mateus Grou"}
+{"id": "1746", "name": "Rua Borba Gato", "obs": "Rua Dr. Virgílio de Carvalho Pinto"}
+{"id": "1748", "name": "Rua Balthazar Carrasco", "obs": "Rua Baltazar Carrasco"}
+{"id": "1740", "name": "Rua Bartholomeu", "obs": "Rua Bartolomeu Zunega"}
+{"id": "1750", "name": "Rua Álvaro Annes", "obs": "Rua Álvaro Anes"}
+{"id": "1751", "name": "Rua Fradique Coutinho", "obs": "Rua Fradique Coutinho"}
+{"id": "1765", "name": "Rua Arcoverde", "obs": "Rua Cardeal Arcoverde"}
+{"id": "1752", "name": "Rua Pedroso de Moraes", "obs": "Avenida Pedroso de Morais"}
+{"id": "1753", "name": "Rua Iquitos", "obs": "Rua Iquitos"}
+{"id": "708", "name": "rua lusitania", "obs": "Um trecho da Rua Lusitana aparece erroneamente como Rua Sergio Thomaz no Sara Brasil"}
+{"id": "709", "name": "rua baixa", "obs": ""}
+{"id": "284", "name": "rua capitao mor passos", "obs": ""}
+{"id": "1754", "name": "Rua Murás", "obs": "Rua Morás"}
+{"id": "1756", "name": "Rua Miranha", "obs": "Rua dos Miranhas"}
+{"id": "1757", "name": "Rua Coropê", "obs": "Rua Coropé"}
+{"id": "1747", "name": "Rua Omaguás", "obs": "Avenida Pedroso de Morais"}
+{"id": "1759", "name": "Rua Macuni", "obs": "Rua dos Macunis"}
+{"id": "1749", "name": "Rua Bianchi Betoldi", "obs": "Rua Bianchi Bertoldi"}
+{"id": "1760", "name": "Rua Fernandes Vieira", "obs": "Rua Dr. Fernandes Coelho"}
+{"id": "1761", "name": "Rua Carvalho Mello", "obs": "Rua Henrique Monteiro"}
+{"id": "1762", "name": "Rua Maria Carolina", "obs": "Rua Maria Carolina"}
+{"id": "1763", "name": "Rua Boaventura Rosa", "obs": "Avenida Rebouças"}
+{"id": "1764", "name": "Rua Doutor Rosa", "obs": "Rua Sampaio Vidal"}
+{"id": "1774", "name": "Rua Martim Carrasco", "obs": ""}
+{"id": "1769", "name": "Rua Cristovam Gonçalves", "obs": ""}
+{"id": "1766", "name": "Rua Fernão Dias", "obs": ""}
+{"id": "1768", "name": "Rua Belchior Coqueiro", "obs": ""}
+{"id": "1773", "name": "Rua Miguel de Isara", "obs": ""}
+{"id": "1770", "name": "Rua dos Cartrys", "obs": ""}
+{"id": "1579", "name": "R Simão Alvares", "obs": "Parte da rua que não é considerada no livro de emplacamento"}
+{"id": "1767", "name": "Rua Antonio Bicudo", "obs": ""}
+{"id": "1771", "name": "Rua Eugenio de Medeiros", "obs": ""}
+{"id": "1775", "name": "Rua Zapara", "obs": ""}
+{"id": "1772", "name": "Rua Manoel Lacerda Franco", "obs": ""}
+{"id": "1730", "name": "rua theodoro sampaio", "obs": ""}
+{"id": "147", "name": "rua paulo affonso", "obs": ""}
+{"id": "148", "name": "rua cavalheiro", "obs": ""}
+{"id": "159", "name": "rua domingos paiva", "obs": ""}
+{"id": "280", "name": "rua carlos de campos", "obs": ""}
+{"id": "130", "name": "rua capitao faustino de lima", "obs": ""}
+{"id": "131", "name": "rua azevedo junior", "obs": ""}
+{"id": "132", "name": "rua claudino pinto", "obs": ""}
+{"id": "133", "name": "rua carneiro leao", "obs": ""}
+{"id": "134", "name": "rua caetano pinto", "obs": ""}
+{"id": "135", "name": "rua sobral", "obs": ""}
+{"id": "137", "name": "rua da figueira", "obs": ""}
+{"id": "142", "name": "rua wandenkoik", "obs": "vetor segue traçado indicado no emplacamento de 1942"}
+{"id": "151", "name": "travessa malvina", "obs": "n.o. (nao oficial)"}
+{"id": "153", "name": "rua campos sales", "obs": ""}
+{"id": "157", "name": "rua parana", "obs": ""}
+{"id": "158", "name": "rua visconde de parnahyba", "obs": ""}
+{"id": "275", "name": "rua rio bonito", "obs": ""}
+{"id": "279", "name": "rua coronel silva gomes", "obs": ""}
+{"id": "285", "name": "rua coronel moraes", "obs": ""}
+{"id": "286", "name": "rua parahyba", "obs": ""}
+{"id": "288", "name": "rua casemiro de abreu", "obs": ""}
+{"id": "290", "name": "rua miller", "obs": ""}
+{"id": "129", "name": "rua maria domitilla", "obs": ""}
+{"id": "291", "name": "rua padre lima", "obs": ""}
+{"id": "376", "name": "rua conselheiro belisario", "obs": ""}
+{"id": "462", "name": "rua coronel seabra", "obs": ""}
+{"id": "463", "name": "rua bento pires", "obs": ""}
+{"id": "488", "name": "rua flora", "obs": ""}
+{"id": "520", "name": "rua maria marcolina", "obs": ""}
+{"id": "379", "name": "rua chavantes", "obs": "parte da rua se tornou a rua ministro firmino whitaker, a vetorizaçao segue o que consta no emplacam"}
+{"id": "532", "name": "rua bresser", "obs": ""}
+{"id": "538", "name": "villa simione", "obs": "n.o. (nao oficial)"}
+{"id": "547", "name": "rua brigadeiro machado", "obs": ""}
+{"id": "558", "name": "rua gomes cardim", "obs": ""}
+{"id": "563", "name": "rua catumby", "obs": ""}
+{"id": "560", "name": "rua carlos guimaraes", "obs": ""}
+{"id": "562", "name": "rua evaristo da veiga", "obs": ""}
+{"id": "561", "name": "rua rodrigo cesar de menezes", "obs": ""}
+{"id": "567", "name": "rua joaquim carlos", "obs": "traçado correspondente ao livro de emplacamento de 1940"}
+{"id": "571", "name": "rua joao bohemer", "obs": ""}
+{"id": "589", "name": "rua bello horizonte", "obs": ""}
+{"id": "595", "name": "rua vieira martins", "obs": "n.o."}
+{"id": "607", "name": "rua conselheiro justino", "obs": ""}
+{"id": "602", "name": "rua joao caetano", "obs": ""}
+{"id": "606", "name": "rua hippia", "obs": ""}
+{"id": "603", "name": "rua catharina cortez", "obs": ""}
+{"id": "610", "name": "rua taquari", "obs": ""}
+{"id": "620", "name": "rua itajahy", "obs": ""}
+{"id": "626", "name": "rua borges de figueiredo", "obs": ""}
+{"id": "644", "name": "rua catharina brahyda", "obs": ""}
+{"id": "641", "name": "rua cassandoca", "obs": ""}
+{"id": "658", "name": "rua cachoeira", "obs": ""}
+{"id": "661", "name": "rua jequitinhonha", "obs": ""}
+{"id": "537", "name": "rua manoel victorino", "obs": ""}
+{"id": "146", "name": "rua doutor almeida de lima", "obs": ""}
+{"id": "156", "name": "rua da alegria", "obs": ""}
+{"id": "281", "name": "rua mendes gonçalves", "obs": ""}
+{"id": "282", "name": "rua doutor virgilio do nascimento", "obs": ""}
+{"id": "465", "name": "rua nitcheroy", "obs": ""}
+{"id": "467", "name": "rua xingu", "obs": ""}
+{"id": "477", "name": "rua odorico mendes", "obs": ""}
+{"id": "615", "name": "rua siqueira cardoso", "obs": ""}
+{"id": "635", "name": "rua clark", "obs": ""}
+{"id": "287", "name": "rua mendes junior", "obs": ""}
+{"id": "128", "name": "rua assumpcao", "obs": ""}
+{"id": "124", "name": "rua monsenhor anacleto", "obs": ""}
+{"id": "125", "name": "rua vasco da gama", "obs": ""}
+{"id": "139", "name": "rua queiroga", "obs": "n.o. (nao oficial)"}
+{"id": "140", "name": "rua pires ramos", "obs": "n.o. (nao oficial)"}
+{"id": "141", "name": "rua mello barreto", "obs": "n.o. (nao oficial)"}
+{"id": "143", "name": "rua do gazometro", "obs": ""}
+{"id": "144", "name": "rua jairo goes", "obs": ""}
+{"id": "145", "name": "rua piratininga", "obs": ""}
+{"id": "149", "name": "rua joaquim nabuco", "obs": ""}
+{"id": "150", "name": "avenida martim burchard", "obs": ""}
+{"id": "152", "name": "rua prudente de moraes", "obs": ""}
+{"id": "154", "name": "rua aristides lobo", "obs": ""}
+{"id": "155", "name": "rua coronel mursa", "obs": ""}
+{"id": "277", "name": "rua doutor ornellas", "obs": ""}
+{"id": "283", "name": "rua doutor pacheco e silva", "obs": ""}
+{"id": "289", "name": "rua silva telles", "obs": ""}
+{"id": "365", "name": "rua alvares de azevedo", "obs": ""}
+{"id": "369", "name": "rua correa de andrade", "obs": ""}
+{"id": "370", "name": "rua oyapock", "obs": ""}
+{"id": "377", "name": "rua sayao lobato", "obs": ""}
+{"id": "378", "name": "villa hortencia", "obs": "n.o. (nao oficial)"}
+{"id": "385", "name": "travessa da concordia", "obs": ""}
+{"id": "466", "name": "", "obs": "n.o. (nao oficial)"}
+{"id": "468", "name": "rua luiz gama", "obs": ""}
+{"id": "469", "name": "rua da paz", "obs": ""}
+{"id": "470", "name": "villa alvarenga", "obs": "n.o. (nao oficial)"}
+{"id": "471", "name": "", "obs": "n.o. (nao oficial)"}
+{"id": "472", "name": "", "obs": "n.o. (nao oficial)"}
+{"id": "473", "name": "", "obs": "n.o. (nao oficial)"}
+{"id": "474", "name": "rua coronel cintra", "obs": ""}
+{"id": "475", "name": "rua mem de sa", "obs": ""}
+{"id": "476", "name": "rua itapira", "obs": ""}
+{"id": "479", "name": "rua dos alpes", "obs": ""}
+{"id": "480", "name": "rua alexandre levy", "obs": ""}
+{"id": "483", "name": "rua andrade reis", "obs": "n.o. (nao oficial)"}
+{"id": "478", "name": "rua barao de jaguara", "obs": ""}
+{"id": "485", "name": "travessa placidina", "obs": ""}
+{"id": "486", "name": "rua placidina", "obs": ""}
+{"id": "487", "name": "rua ernersto de castro", "obs": ""}
+{"id": "497", "name": "rua sao biaggio", "obs": ""}
+{"id": "498", "name": "", "obs": "n.o. (nao oficial)"}
+{"id": "711", "name": "rua garibaldi", "obs": ""}
+{"id": "126", "name": "avenida rangel pestana", "obs": ""}
+{"id": "464", "name": "rua da mooca", "obs": ""}
+{"id": "667", "name": "rua 3", "obs": "n.o. (nao oficial)"}
+{"id": "645", "name": "rua dos trilhos", "obs": ""}
+{"id": "671", "name": "rua souza caldas", "obs": ""}
+{"id": "529", "name": "rua maria joaquina", "obs": ""}
+{"id": "539", "name": "rua almirante barroso", "obs": ""}
+{"id": "530", "name": "rua sampson", "obs": ""}
+{"id": "533", "name": "rua euclides da cunha", "obs": ""}
+{"id": "597", "name": "villa silverio jordao", "obs": "n.o. (nao oficial)"}
+{"id": "735", "name": "rua doutor carlos botelho", "obs": ""}
+{"id": "536", "name": "rua joly", "obs": ""}
+{"id": "535", "name": "rua ricardo gonçalves", "obs": ""}
+{"id": "540", "name": "rua rubino de oliveira", "obs": ""}
+{"id": "546", "name": "rua visconde de abaete", "obs": ""}
+{"id": "541", "name": "rua jose de alencar", "obs": ""}
+{"id": "545", "name": "rua do hipodromo", "obs": ""}
+{"id": "542", "name": "rua uruguayana", "obs": ""}
+{"id": "543", "name": "rua coimbra", "obs": ""}
+{"id": "555", "name": "rua progresso", "obs": ""}
+{"id": "548", "name": "villa gordinho", "obs": "n.o. (nao oficial)"}
+{"id": "554", "name": "rua teixeira de freitas", "obs": ""}
+{"id": "549", "name": "rua doutor ubaldino do amaral", "obs": ""}
+{"id": "553", "name": "rua martim affonso", "obs": ""}
+{"id": "550", "name": "rua belem", "obs": ""}
+{"id": "552", "name": "rua saldanha marinho", "obs": ""}
+{"id": "551", "name": "rua sao leopoldo", "obs": ""}
+{"id": "556", "name": "rua nicolau barreto", "obs": ""}
+{"id": "564", "name": "rua cajuru", "obs": ""}
+{"id": "557", "name": "rua siqueira bueno", "obs": ""}
+{"id": "559", "name": "rua cesario alvim", "obs": ""}
+{"id": "570", "name": "travessa da intendencia", "obs": ""}
+{"id": "565", "name": "villa boyes", "obs": "n.o. (nao oficial)"}
+{"id": "569", "name": "rua behring", "obs": ""}
+{"id": "566", "name": "rua jose kauer", "obs": ""}
+{"id": "669", "name": "rua 2", "obs": "n.o. (nao oficial)"}
+{"id": "568", "name": "rua fernao de magalhaes", "obs": ""}
+{"id": "573", "name": "rua gonçalves dias", "obs": ""}
+{"id": "572", "name": "rua jose monteiro", "obs": ""}
+{"id": "574", "name": "rua sebastiao de castro", "obs": ""}
+{"id": "586", "name": "rua lopes coutinho", "obs": ""}
+{"id": "575", "name": "rua doutor silva leme", "obs": ""}
+{"id": "585", "name": "rua firmiano pinto", "obs": ""}
+{"id": "576", "name": "rua conselheiro cotegipe", "obs": ""}
+{"id": "584", "name": "rua pimenta bueno", "obs": ""}
+{"id": "577", "name": "rua tatuape", "obs": ""}
+{"id": "583", "name": "rua doutor clementino", "obs": ""}
+{"id": "578", "name": "avenida  alvaro ramos", "obs": ""}
+{"id": "582", "name": "rua passos", "obs": ""}
+{"id": "579", "name": "rua silva jardim", "obs": ""}
+{"id": "580", "name": "rua eloy cerqueira", "obs": ""}
+{"id": "587", "name": "rua herval", "obs": "a.r"}
+{"id": "594", "name": "rua arthur motta", "obs": ""}
+{"id": "593", "name": "rua ipanema", "obs": ""}
+{"id": "590", "name": "rua almirante brasil", "obs": ""}
+{"id": "592", "name": "rua frei gaspar", "obs": ""}
+{"id": "591", "name": "rua conselheiro lafaiette", "obs": ""}
+{"id": "608", "name": "rua ignacio de araujo", "obs": ""}
+{"id": "601", "name": "rua major octaviano", "obs": ""}
+{"id": "598", "name": "rua guilhen", "obs": ""}
+{"id": "600", "name": "rua bayrao", "obs": ""}
+{"id": "599", "name": "rua guarapuava", "obs": ""}
+{"id": "605", "name": "rua pires do rio", "obs": ""}
+{"id": "604", "name": "rua benedicto barbosa", "obs": ""}
+{"id": "611", "name": "rua jaibaras", "obs": ""}
+{"id": "609", "name": "rua joao tobias", "obs": ""}
+{"id": "612", "name": "rua andre leao", "obs": ""}
+{"id": "614", "name": "rua anna nery", "obs": ""}
+{"id": "613", "name": "rua conselheiro joao alfredo", "obs": ""}
+{"id": "621", "name": "avenida presidente wilson", "obs": ""}
+{"id": "616", "name": "rua monsenhor joao felipo", "obs": ""}
+{"id": "617", "name": "rua joao antônio de oliveira", "obs": ""}
+{"id": "619", "name": "rua javary", "obs": ""}
+{"id": "618", "name": "rua iolanda", "obs": ""}
+{"id": "625", "name": "rua visconde da laguna", "obs": ""}
+{"id": "622", "name": "rua marina crespi", "obs": ""}
+{"id": "624", "name": "rua manoel cintra", "obs": ""}
+{"id": "623", "name": "rua orville derby", "obs": ""}
+{"id": "639", "name": "rua leocadia cintra (n.a)", "obs": ""}
+{"id": "638", "name": "rua guaratingueta", "obs": ""}
+{"id": "522", "name": "rua silva pinto", "obs": ""}
+{"id": "627", "name": "rua madre de deuas", "obs": ""}
+{"id": "633", "name": "rua padre raposo", "obs": ""}
+{"id": "668", "name": "rua 1", "obs": "n.o. (nao oficial)"}
+{"id": "692", "name": "rua jaragua", "obs": ""}
+{"id": "691", "name": "travessa tenente penna", "obs": ""}
+{"id": "690", "name": "rua barra do tibagy", "obs": ""}
+{"id": "700", "name": "rua javahes", "obs": ""}
+{"id": "699", "name": "rua sergio thomaz", "obs": ""}
+{"id": "628", "name": "avenida paes de barros", "obs": ""}
+{"id": "716", "name": "rua anhanguera", "obs": ""}
+{"id": "713", "name": "rua cruzeiro", "obs": ""}
+{"id": "632", "name": "rua do oratorio", "obs": ""}
+{"id": "629", "name": "rua marquez de valença", "obs": ""}
+{"id": "631", "name": "rua antunes maciel", "obs": ""}
+{"id": "630", "name": "rua dos capitaes mores", "obs": ""}
+{"id": "637", "name": "rua juvenal parada", "obs": ""}
+{"id": "634", "name": "rua dos campineiros", "obs": "n.o"}
+{"id": "636", "name": "rua dos capitaes generaes", "obs": ""}
+{"id": "640", "name": "rua marcial", "obs": ""}
+{"id": "643", "name": "rua itapiraçaba", "obs": ""}
+{"id": "642", "name": "rua toledo barbosa", "obs": ""}
+{"id": "652", "name": "rua julio de castilho", "obs": ""}
+{"id": "664", "name": "rua coronel emygdio piedade", "obs": ""}
+{"id": "660", "name": "rua dos amores", "obs": ""}
+{"id": "663", "name": "rua dos prazeres", "obs": ""}
+{"id": "666", "name": "rua 6", "obs": "n.o. (nao oficial)"}
+{"id": "665", "name": "rua 5", "obs": "n.o. (nao oficial)"}
+{"id": "670", "name": "rua 4", "obs": "n.o. (nao oficial)"}
+{"id": "674", "name": "rua marcos arruda", "obs": ""}
+{"id": "676", "name": "rua santa clara", "obs": ""}
+{"id": "675", "name": "rua belisario de sousa", "obs": "nome confimarada em outras cartografias"}
+{"id": "677", "name": "rua redempcao", "obs": ""}
+{"id": "678", "name": "rua marquez de abrantes", "obs": ""}
+{"id": "680", "name": "rua serra de araraquara", "obs": ""}
+{"id": "679", "name": "rua uriel gaspar", "obs": ""}
+{"id": "684", "name": "avenida celso garcia", "obs": ""}
+{"id": "686", "name": "rua vinte um de abril", "obs": ""}
+{"id": "581", "name": "rua fernandes vieira", "obs": ""}
+{"id": "672", "name": "rua nova de sao jose", "obs": ""}
+{"id": "2044", "name": "rua maria ferraz", "obs": ""}
+{"id": "195", "name": "rua conego martins", "obs": ""}
+{"id": "198", "name": "rua itaboca", "obs": ""}
+{"id": "199", "name": "rua aymores", "obs": ""}
+{"id": "200", "name": "rua carmo cintra", "obs": ""}
+{"id": "201", "name": "rua ribeiro de lima", "obs": ""}
+{"id": "203", "name": "rua tres rios", "obs": ""}
+{"id": "689", "name": "rua solon", "obs": ""}
+{"id": "693", "name": "rua general flores", "obs": ""}
+{"id": "698", "name": "rua mamore", "obs": ""}
+{"id": "715", "name": "rua do bosque", "obs": ""}
+{"id": "720", "name": "n.o", "obs": ""}
+{"id": "717", "name": "n.o", "obs": ""}
+{"id": "729", "name": "rua salta salta", "obs": ""}
+{"id": "731", "name": "rua pedro thomaz", "obs": ""}
