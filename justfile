@@ -16,6 +16,10 @@ up:
     @until curl -sf localhost:9200 >/dev/null; do sleep 2; done
     @echo "no ar em http://localhost:9200"
 
+# derruba o Elasticsearch
+down:
+    docker stop tcc-elasticsearch
+
 # prepara os dados: base indexável e rascunho do gabarito
 data:
     uv run python -m pauliceia.extract
