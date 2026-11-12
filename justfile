@@ -5,6 +5,11 @@ default:
 install:
     uv sync --extra dev
 
+# regera métricas, tabelas e gráfico a partir dos logs versionados
+results:
+    uv run python -m phonetic_search.evaluation
+    uv run python -m phonetic_search.reporting
+
 # sobe o Elasticsearch com os plugins fonéticos
 up:
     docker build -t tcc-elasticsearch docker/
@@ -19,6 +24,12 @@ up:
 # derruba o Elasticsearch
 down:
     docker stop tcc-elasticsearch
+
+# indexa, busca e recalcula tudo contra um Elasticsearch no ar
+all: up
+    uv run python -m phonetic_search.indexing
+    uv run python -m phonetic_search.searching
+    @just results
 
 # prepara os dados: base indexável e rascunho do gabarito
 data:
