@@ -5,6 +5,13 @@ default:
 install:
     uv sync --extra dev
 
+# roda lint, formatação, type check e testes
+test:
+    uv run ruff check .
+    uv run ruff format --check .
+    uv run ty check
+    uv run pytest -q
+
 # regera métricas, tabelas e gráfico a partir dos logs versionados
 results:
     uv run python -m phonetic_search.evaluation
