@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  tests:
+    name: Lint, type check, tests and reproducibility
+    runs-on: ubuntu-24.04
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Install uv and just
+        uses: astral-sh/setup-uv@v10.3.0
+        with:
+          enable-cache: true
+      - run: uv tool install rust-just && echo "$HOME/.local/bin" >> $GITHUB_PATH
+
+      - name: Install
+        run: just install
+
+      - name: Lint, type check and tests
+        run: just test
+
+      - name: Regenerate metrics, tables and chart from data/04_logs.jsonl
+        run: just results
+
+      - name: Check that nothing changed
+        run: git diff --exit-code -- data/05_metrics.csv out/
