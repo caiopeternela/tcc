@@ -17,6 +17,10 @@ results:
     uv run python -m phonetic_search.evaluation
     uv run python -m phonetic_search.reporting
 
+# calcula os intervalos de confiança das diferenças entre configurações
+significance:
+    uv run python -m phonetic_search.significance
+
 # sobe o Elasticsearch com os plugins fonéticos
 up:
     docker build -t tcc-elasticsearch docker/
