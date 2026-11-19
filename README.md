@@ -1,5 +1,7 @@
 # Avaliação de Algoritmos Fonéticos na Recuperação de Informação de Logradouros Históricos Brasileiros
 
+![license: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+
 O experimento compara 7 algoritmos fonéticos do Elasticsearch 7.3.0 e 2 configurações
 de controle, sobre 853 logradouros da área piloto da
 [Pauliceia 2.0](https://pauliceia.unifesp.br/). As nove configurações respondem às mesmas
